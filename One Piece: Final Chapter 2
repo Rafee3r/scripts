@@ -1,0 +1,45 @@
+-[[
+	Script created and modify by:
+      _                 ___ _           _     
+ _   | |               / __|_)_        | |    
+| |_ | | _   ____ ____| |__ _| |_  ____| | _  
+|  _)| || \ / ___) _  |  __) |  _)/ _  | || \ 
+| |__| | | | |  ( ( | | |  | | |_( ( | | | | |
+ \___)_| |_|_|   \_||_|_|  |_|\___)_||_|_| |_|
+                  
+	Follow me on tiktok 
+		@amx_rafxz
+
+	Discord: ! Rafee3r_#9577
+
+	Instagram: amx_rafxz
+
+	Backup: 205835.html
+
+
+
+CG_setup= "10"
+
+Message-updater= "34"
+
+MSG-d2= "0"
+
+all_true= true
+
+
+
+--]]
+
+
+while true do wait(0) 
+
+-- setup
+local A_1 = "Hola me gustan las cosas gruesas y grandes uwu" local A_2 = "All"
+-- cmd status
+game:GetService("StarterGui"):SetCore("SendNotification", {Title = "XD", Text = "Trolleo hermano"})
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest Event:FireServer(A_1, A_2) end
+
+
+wait(10)
+local Player = game.Players.LocalPlayer
+	game.Players[LocalPlayer]:Kick("Por que te quedaste aweonao? xd")
